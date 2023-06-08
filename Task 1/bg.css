@@ -1,0 +1,30 @@
+#bg {
+    text-align: center;
+
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    color: rgb(0, 0, 0, 0.5);
+    letter-spacing: 0.2em;
+}
+
+div {
+
+    padding: 12px;
+    margin: 24px;
+}
+
+.color1 {
+    margin-right: 18px;
+
+}
+
+#btn {
+    padding: 10px;
+    background: linear-gradient(to left, #ADD8E6, #7FFFD4);
+
+    border-radius: 12px;
+    border: none;
+}
